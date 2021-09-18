@@ -1,0 +1,2 @@
+# Implementacao-Firebase
+Nesse Projeto, é feito um pequeno teste de implementação do firebase. O app é voltado para Android, adicionei o react-native-firebase e fiz a conexão entre o banco e a aplicação, segui os passos referentes ao que o google me apresentou, além de adicionar importações de autenticação, para um pequeno teste de autenticar email e senha. No momento o app apresenta um erro ao enviar o subimit, apresento esses erros na pasta de imagens
